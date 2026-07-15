@@ -1,0 +1,6 @@
+build/
+*.o
+*.out
+test
+compile_commands.json
+EOF
